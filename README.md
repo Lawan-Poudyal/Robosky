@@ -32,6 +32,6 @@ Ensure the following software and libraries are installed:
 ### Clone Repository
 
 ```bash
-git clone shttps://github.com/Lawan-Poudyal/Robosky.git
+git clone https://github.com/Lawan-Poudyal/Robosky.git
 cd Robosky
 ```
