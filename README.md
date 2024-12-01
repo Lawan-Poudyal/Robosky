@@ -1,6 +1,6 @@
 #Team Robosky
 
-# Hand-Drawn Circuit to PCB Converter
+# Sketch to PCB Converter
 
 This project aims to automate the process of converting hand-drawn circuit diagrams into PCB (Printed Circuit Board) layouts. By leveraging the YOLOv4 object detection model, the system can identify circuit components and connections in hand-drawn images and generate a machine-readable format for PCB design.
 
