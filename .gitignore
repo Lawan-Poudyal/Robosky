@@ -1,0 +1,8 @@
+backup
+venv
+runs
+__pycache__
+lib_pickle_dir
+*.log
+*.erc
+*.net
